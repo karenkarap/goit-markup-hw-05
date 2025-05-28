@@ -790,7 +790,7 @@ button {
 }
 
 .checkbox-privacy-policy-label {
-    display: inline-flex;
+    /* display: inline-flex; */
     align-items: center; 
     font-size: 12px;
     line-height: 1.17;
@@ -826,10 +826,12 @@ button {
     background-color: #404bbf;
     /* border: 1px solid #404bbf; */
     border: none;
+    fill: #f4f4fd;
 }
 
 .policy-terms {
     text-decoration: underline;
+    color: #4d5ae5;
 }
 
 .modal-button {
