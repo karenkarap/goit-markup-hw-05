@@ -764,6 +764,7 @@ button {
 }
 
 .modal-textarea {
+    display: block;
     width: 100%;
     height: 120px;
     resize: none;
